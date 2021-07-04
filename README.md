@@ -20,6 +20,10 @@
   de dados, Java, Orientação a objetos e Gestão do tempo.
   </p>
   
+  - Gradução: 
+  <p>Atualmente, cursa o 1º período de Ciência da Computação na Universidade Federal do Ceará.
+  </p>
+  
  <br/>
   
  <h3>💎 Conhecimentos:</h3>
