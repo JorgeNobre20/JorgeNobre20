@@ -9,8 +9,8 @@
 
 <h3> 🚀 Experiência Profissional: </h3>
 
-- 5 meses de estágio em desenvolvimento mobile com React Native na Pimpos Health.
-- 1 mês de estágio em desenvolvimento web com Angular 9 na Pimpo Health.
+- 7 meses de estágio em desenvolvimento mobile com React Native na Pimpos Health.
+- 7 meses de estágio em desenvolvimento web com Angular 9 na Pimpos Health.
 
 <br/>
 <h3>🏆 Formações:</h3>
