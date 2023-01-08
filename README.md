@@ -9,8 +9,7 @@
 
 <h3> 🚀 Experiência Profissional: </h3>
 
-- 7 meses de estágio em desenvolvimento mobile com React Native na Pimpos Health.
-- 2 meses de estágio em desenvolvimento web com Angular 9 na Pimpos Health.
+- 2 anos de experiência no desenvolvimento de software com React Native, Angular, Spring Boot e NodeJs.
 
 <br/>
 <h3>🏆 Formações:</h3>
@@ -21,7 +20,7 @@
   </p>
   
   - Gradução: 
-  <p>Atualmente, cursa o 1º período de Ciência da Computação na Universidade Federal do Ceará.
+  <p>Atualmente, cursa o 5º período de Ciência da Computação na Universidade Federal do Ceará.
   </p>
   
  <br/>
