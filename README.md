@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, seja bem-vindo! 🎉</h1>
+  <h1>Olá, seja bem-vindo(a)! 🎉</h1>
 </div>
 
 <br/>
@@ -18,8 +18,8 @@
   <p>Curso técnico em informática com duração 3 anos voltado à área de programação e àreas da tecnologia da informação(design, redes, manutenção de computadores, pacotes de escritório) com direito a estágio.Neste curso adquiri conhecimento em lógica de programção, HTML5, CSS3 , Javascript, PHP 7, Banco 
   de dados, Java, Orientação a objetos e Gestão do tempo.
   </p>
-  
-  - Gradução: 
+
+- Gradução: 
   <p>Atualmente, cursa o 5º período de Ciência da Computação na Universidade Federal do Ceará.
   </p>
   
