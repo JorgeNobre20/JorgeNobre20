@@ -9,7 +9,8 @@
 
 <h3> 🚀 Experiência Profissional: </h3>
 
-- 2 anos de experiência no desenvolvimento de software com React Native, Angular, Spring Boot e NodeJs.
+- Estágio em desenvolvimento de software com React Native, Angular, Spring Boot e NodeJs.
+- Programador júnior desenvolvendo com React Native, Angular, Spring Boot e NodeJs.
 
 <br/>
 <h3>🏆 Formações:</h3>
@@ -20,7 +21,7 @@
   </p>
 
 - Gradução: 
-  <p>Atualmente, cursa o 5º período de Ciência da Computação na Universidade Federal do Ceará.
+  <p>Atualmente, cursa Ciência da Computação na Universidade Federal do Ceará.
   </p>
   
  <br/>
