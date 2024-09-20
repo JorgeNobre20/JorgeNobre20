@@ -3,29 +3,8 @@
 </div>
 
 <br/>
-<p>Meu nome é Jorge Nobre, sou brasileiro e fico feliz por você estar por aqui.</p>
+<p>Meu nome é Jorge Nobre, atualmente sou desenvolvedor fullstack e fico feliz por você estar por aqui. </p>
 
-<br/>
-
-<h3> 🚀 Experiência Profissional: </h3>
-
-- Estágio em desenvolvimento de software com React Native, Angular, Spring Boot e NodeJs.
-- Programador júnior desenvolvendo com React Native, Angular, Spring Boot e NodeJs.
-
-<br/>
-<h3>🏆 Formações:</h3>
-
-- Curso Técnico: 
-  <p>Curso técnico em informática com duração 3 anos voltado à área de programação e àreas da tecnologia da informação(design, redes, manutenção de computadores, pacotes de escritório) com direito a estágio.Neste curso adquiri conhecimento em lógica de programção, HTML5, CSS3 , Javascript, PHP 7, Banco 
-  de dados, Java, Orientação a objetos e Gestão do tempo.
-  </p>
-
-- Gradução: 
-  <p>Atualmente, cursa Ciência da Computação na Universidade Federal do Ceará.
-  </p>
-  
- <br/>
-  
  <h3>💎 Conhecimentos:</h3>
 
 - NodeJs
@@ -37,9 +16,12 @@
 - TypeScript
 - Angular
 - React Native
+- .NET
+- Laravel
 - Príncipios do design
 - Pacotes de Escritório
 - UI/UX Design
+
 
 <br/>
 
