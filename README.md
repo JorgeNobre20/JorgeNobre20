@@ -3,28 +3,7 @@
 </div>
 
 <br/>
-<p>Meu nome é Jorge Nobre, atualmente sou desenvolvedor fullstack e fico feliz por você estar por aqui. </p>
-
- <h3>💎 Conhecimentos:</h3>
-
-- NodeJs
-- Javascript
-- PHP
-- HTML5
-- CSS3
-- React Js
-- TypeScript
-- Angular
-- React Native
-- .NET
-- Laravel
-- Príncipios do design
-- Pacotes de Escritório
-- UI/UX Design
-
-
-<br/>
-
+<p>Meu nome é Antonio Jorge Nobre, atualmente sou desenvolvedor fullstack e fico feliz por você estar por aqui. </p>
 <h3>💼 Redes de Contato Profissional:</h3>
  
 - LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/jorge-nobre-8109581a2/">Jorge Nobre</a>
